@@ -1,0 +1,5 @@
+<root>
+    <item name='android.se.omapi.Session'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
